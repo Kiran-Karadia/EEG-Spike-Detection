@@ -5,6 +5,6 @@ Method2.py - Code for second method
 shared_functions - Code that is shared between the two methods
 11500.mat - Index and Class for submission data
 
-Method1.py and Method2.py only use libraries available in Anaconda. 
+Method1.py and Method2.py only use libraries available in the base Anaconda environment. 
 No extra installtions are needed
 
